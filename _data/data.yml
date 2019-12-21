@@ -130,6 +130,8 @@ experiences:
           - Using django created Python web-application for collecting, cleaning, processing and analysing more than 10 Million packets.
           - Converted data into actionable insights by modelling sizes of packets at different bandwidths into interactive graphs that helped users to optimise their application's performance under various bandwidths.
           - Contributed the software to open source.      
+   
+   
 projects:
     title: Projects
     assignments:
@@ -159,17 +161,6 @@ projects:
       - title: Parallel N-Queens and sudoku solver - High performance computing course
         tagline: "A parallel implementation of solving N-Queens and Sudoku using OpenMp. Analyzed and presented the speedup obtained."
 
-experiences:
-    - role: Lead Volunteer 
-      time: December 2015
-      company: ActionAID NGO,  Delhi
-      details: |
-         As the lead volunteer I worked with government to help support rescue of homeless people during cold winters. Reported areas where technology can be used. Participated in various campaigns and surveyed shelter homes
-    - role:  Volunteer 
-      time: October, 2019 - Present
-      company: GE Volunteers,  Bangalore
-      details: |
-         Actively volunteering for activities that require teaching underprivileged kids on weekends, saving environment by planting trees once every quarter.
 skills:
     title: Skills &amp; Proficiency
 
