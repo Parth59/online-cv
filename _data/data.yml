@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Parth Kanakiya
-    tagline: Data Engineer Developer
+    tagline: Data Engineer 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -77,8 +77,8 @@ experiences:
       company: GE Corporate (General Electric), Bengaluru
       details: |
         Working as a Data Engineer on our Finance data lake platform.
-        Developing data pipelines that trasnfers data to Hadoop Operational Data Store from ERP's. As the Technical Anchor 
-        for the team, responsible for maintaing coding standards and software engineering practices.
+        Developing data  processing pieplines that transfers data from Oracle ERP's to Hadoop Operational Data Store. As the Technical Anchor 
+        for the team, I am also responsible for maintaing coding standards and software engineering practices.
           - Developed highly maintainable code in Java for ETL modules that formed core data Ingestion framework.
           - Assisted in design and implementation of custom in-house ETL tool to workaround immutability on hadoop by merging in-memory with updated data.
           - Spearheading documentation initiatives to establish comprehensive technical documentation for our project which included High & Low Level Design, Sequence Diagrams, API documentation and coding/testing standards
@@ -108,13 +108,6 @@ experiences:
           - Helped in auditing financial data between source and target tables.
           - Optimized the performance by making the code run 100% faster. 
           Technologies used: Java, Greenplum-SQL.
-    - role: Teaching Assistant
-      time: Jan, 2017 - December, 2017
-      company: Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
-      details: |
-        Aided freshman students with their coursework for the course of Electromagnetics, Analog Circuits and Data Structures.
-        - Worked with students who lagged in studies towards improving their grades by helping them with 
-        assignments, revisiting abstruse topics and solving doubts
     - role: Software Intern
       time: Summer 2017
       company: MAQ Software, Mumbai
@@ -122,6 +115,13 @@ experiences:
           Developed backend micro-services and frontend interfaces to monitor server's health and running jobs.
           - Developed forumlae for finding the percentage of  
           Technologies used: Ag-grid, AngularJs, NodeJS, Azure cloud platform.
+    - role: Teaching Assistant
+      time: Jan, 2017 - December, 2017
+      company: Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar
+      details: |
+        Aided freshman students with their coursework for the course of Electromagnetics, Analog Circuits and Data Structures.
+        - Worked with students who lagged in studies towards improving their grades by helping them with 
+        assignments, revisiting abstruse topics and solving doubts
     - role: Research Intern
       time: Summer 2016 
       company: IIT-Bombay
@@ -132,31 +132,32 @@ experiences:
           - Contributed the software to open source.      
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: BirdApp Android Application
+        tagline: "An Android application developed to identify of Bird's from it's images using deep learning. Also tracks Birds sightings reported by community"
+    
+      - title: Non Volatile Virtual File System
+        tagline: "A Java-based distributed file system that has master-slave replication. Developed using the Java RMI interface"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: College Pravesh Database Service
+        tagline: "Highly performant database service developed using pgsql and Java. Performance optimized using partitioning, indexing and query optimizations"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Recommendation System
+        tagline: "A movie recommendation systems made using collaborative filtering on public data sets"
+      - title: Tiny shell
+        tagline: "Developed shell to handle basic shell functions like job control, signal handling and fork join model forexecuting inbuilt linux commands such as ls, vim"
+      
+      - title: Tiny shell
+        tagline: "Developed shell to handle basic shell functions like job control, signal handling and fork join model forexecuting inbuilt linux commands such as ls, vim"
+      
+      - title: Dynamic Memory Allocator
+        tagline: "Created dynamic storage allocator for C programs using segregated free list reaching 91% efficiency "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Smart Tic-Tac-Toe
+        tagline: "A Tic-Tac-Toe game engine that never loses. Developed using minimax and optimized using alpha-beta pruning"
+   
+      - title: Parallel N-Queens and sudoku solver - High performance computing course
+        tagline: "A parallel implementation of solving N-Queens and Sudoku using OpenMp. Analyzed and presented the speedup obtained."
 
 skills:
     title: Skills &amp; Proficiency
