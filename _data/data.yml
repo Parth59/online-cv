@@ -159,20 +159,17 @@ projects:
       - title: Parallel N-Queens and sudoku solver - High performance computing course
         tagline: "A parallel implementation of solving N-Queens and Sudoku using OpenMp. Analyzed and presented the speedup obtained."
 
-volunteering experiences:
-    - role: Data Engineer
-      time: October, 2019 - Present
-      company: GE Corporate (General Electric), Bengaluru
+experiences:
+    - role: Lead Volunteer 
+      time: December 2015
+      company: ActionAID NGO,  Delhi
       details: |
-        Working as a Data Engineer on our Finance data lake platform.
-        Developing data  processing pieplines that transfers data from Oracle ERP's to Hadoop Operational Data Store. As the Technical Anchor 
-        for the team, I am also responsible for maintaing coding standards and software engineering practices.
-          - Developed highly maintainable code in Java for ETL modules that formed core data Ingestion framework.
-          - Assisted in design and implementation of custom in-house ETL tool to workaround immutability on hadoop by merging in-memory with updated data.
-          - Spearheading documentation initiatives to establish comprehensive technical documentation for our project which included High & Low Level Design, Sequence Diagrams, API documentation and coding/testing standards
-          - Led efforts for refactoring and performance optimization. Saved the company costs by around $48K/month. 
-          Technologies used: Spring Boot, Greenplum, Hive and Spark.
-
+         As the lead volunteer I worked with government to help support rescue of homeless people during cold winters. Reported areas where technology can be used. Participated in various campaigns and surveyed shelter homes
+    - role:  Volunteer 
+      time: October, 2019 - Present
+      company: GE Volunteers,  Bangalore
+      details: |
+         Actively volunteering for activities that require teaching underprivileged kids on weekends, saving environment by planting trees once every quarter.
 skills:
     title: Skills &amp; Proficiency
 
