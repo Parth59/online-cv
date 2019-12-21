@@ -159,6 +159,20 @@ projects:
       - title: Parallel N-Queens and sudoku solver - High performance computing course
         tagline: "A parallel implementation of solving N-Queens and Sudoku using OpenMp. Analyzed and presented the speedup obtained."
 
+volunteering experiences:
+    - role: Data Engineer
+      time: October, 2019 - Present
+      company: GE Corporate (General Electric), Bengaluru
+      details: |
+        Working as a Data Engineer on our Finance data lake platform.
+        Developing data  processing pieplines that transfers data from Oracle ERP's to Hadoop Operational Data Store. As the Technical Anchor 
+        for the team, I am also responsible for maintaing coding standards and software engineering practices.
+          - Developed highly maintainable code in Java for ETL modules that formed core data Ingestion framework.
+          - Assisted in design and implementation of custom in-house ETL tool to workaround immutability on hadoop by merging in-memory with updated data.
+          - Spearheading documentation initiatives to establish comprehensive technical documentation for our project which included High & Low Level Design, Sequence Diagrams, API documentation and coding/testing standards
+          - Led efforts for refactoring and performance optimization. Saved the company costs by around $48K/month. 
+          Technologies used: Spring Boot, Greenplum, Hive and Spark.
+
 skills:
     title: Skills &amp; Proficiency
 
